@@ -12,14 +12,14 @@
   </a>
 </p>
 <h1 align="center">
-  Next.js Tailwind + Emotion Starter
+  Tailwind CSS ➕ Emotion Starter for Next.js
 </h1>
 
 Kick off your project with this bare-bones Tailwind CSS + Emotion starter for Next.js. This starter ships with the packages and configuration files you need to get hit the ground running on your next Tailwind CSS project.
 
 ## 💄 Demo
 
-You can see a demo of the frontend [over yonder](https://next-tailwind-emotion-starter-demo.netlify.com/).
+You can see a demo of the frontend [over yonder](https://next-tailwind-emotion-starter.netlify.app/).
 
 ## 🚀 Quick start
 
@@ -211,7 +211,7 @@ A quick look at the top-level files and directories you'll see inside this proje
 
 - [ ] [Pass Server Data Directly to a Next.js Page during SSR](https://github.com/vercel/next.js/tree/master/examples/with-emotion)
 
-📚 Learn More About Next.js
+## 📚 Learn More About Next.js
 
 To learn more about Next.js, use the following resources:
 

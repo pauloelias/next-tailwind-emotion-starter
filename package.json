@@ -1,7 +1,7 @@
 {
   "name": "@pauloelias/next-tailwind-emotion-starter",
-  "version": "1.0.3",
-  "description": "A Tailwind CSS + Emotion Starter for Next.js",
+  "version": "1.0.4",
+  "description": "A Tailwind CSS + Emotion starter for Next.js",
   "keywords": [
     "nextjs",
     "tailwind",

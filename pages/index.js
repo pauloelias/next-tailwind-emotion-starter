@@ -1,6 +1,7 @@
+import Head from 'next/head'
 import tw from 'twin.macro'
 
-import github from '../assets/images/github.svg'
+import githubLogo from '../assets/images/github.svg'
 
 const logos = [
   {
@@ -52,6 +53,9 @@ const SmallIcon = tw.img`
 export default function Index() {
   return (
     <Wrapper>
+      <Head>
+        <title>A Tailwind CSS ➕ Emotion Starter for Next.js</title>
+      </Head>
       <Main>
         <Logos>
           {logos &&
@@ -60,14 +64,14 @@ export default function Index() {
             ))}
         </Logos>
         <Heading>Hello, world!</Heading>
-        <Text>Welcome to the Next Tailwind CSS + Emotion Starter.</Text>
+        <Text>Welcome to the Tailwind CSS ➕ Emotion Starter for Next.js.</Text>
         <Footer>
           <a
             href="https://github.com/pauloelias/next-tailwind-emotion-starter"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <SmallIcon src={github} alt="Github Icon" />
+            <SmallIcon src={githubLogo} alt="Github Icon" />
           </a>
         </Footer>
       </Main>
