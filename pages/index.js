@@ -64,7 +64,13 @@ export default function Index() {
             ))}
         </Logos>
         <Heading>Hello, world!</Heading>
-        <Text>Welcome to the Tailwind CSS ➕ Emotion Starter for Next.js.</Text>
+        <Text>
+          Welcome to the Tailwind CSS{' '}
+          <span role="img" aria-label="and">
+            ➕
+          </span>{' '}
+          Emotion Starter for Next.js.
+        </Text>
         <Footer>
           <a
             href="https://github.com/pauloelias/next-tailwind-emotion-starter"
