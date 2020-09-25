@@ -1,9 +1,9 @@
 module.exports = {
   twin: {
-    config: "tailwind.config.js",
-    preset: "emotion",
+    config: 'tailwind.config.js',
+    preset: 'emotion',
     debugProp: true,
     debugPlugins: false,
-    debug: false,
-  },
-};
+    debug: false
+  }
+}

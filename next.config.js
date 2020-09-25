@@ -1,8 +1,8 @@
-const withImages = require("next-images");
+const withImages = require('next-images')
 
 module.exports = withImages({
-  distDir: "build",
+  distDir: 'build',
   webpack(config) {
-    return config;
-  },
-});
+    return config
+  }
+})

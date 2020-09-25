@@ -1,5 +1,5 @@
-import React from "react";
+import React from 'react'
 
 export default function ErrorPage() {
-  <>Not found</>;
+  return <>Not found</>
 }
