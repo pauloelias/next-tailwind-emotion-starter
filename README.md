@@ -60,7 +60,7 @@ The rest of the Starter is based off of the Next.js default starter.
 
 ## 📦 Example Components
 
-To use Tailwind CSS classes inside of your components you use the `twin.macro` package. You can also create richer styled components using a combination of both Tailwind's classes and your own custom CSS with Emotion. Laslty, if needed, you can use PostCSS to write your own custom see as well.
+To use Tailwind CSS classes inside of your components you use the `twin.macro` package. You can also create richer styled components using a combination of both Tailwind's classes and your own custom CSS with Emotion. Laslty, if needed, you can use PostCSS to write your own custom CSS as well.
 
 ### Standalone Tailwind Classes
 
