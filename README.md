@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ece07044-6cc6-459e-808b-92485f0ba479/deploy-status)](https://app.netlify.com/sites/gatsby-tailwind-emotion-starter-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bcf342c2-53d1-421e-ba6f-fafb0f4cdf84/deploy-status)](https://app.netlify.com/sites/next-tailwind-emotion-starter/deploys)
 
 <p align="center">
   <a href="https://nextjs.org">
